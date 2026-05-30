@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Kavindra E M! 👋
 
 ### 🚀 About Me
 I am a passionate **[Your Role, e.g., Full-Stack Developer / Data Scientist / UI-UX Designer]** from [Your Location]. I love building things that live on the internet and solving complex problems with clean code.
