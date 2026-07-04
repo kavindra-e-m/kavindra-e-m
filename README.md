@@ -78,7 +78,7 @@ AI-powered harassment detection system running real-time video analysis on a Ras
 
 ### 🏆 Achievements
 
-- 🥇 Department Topper (AIML) — 2024, 2025
+- 🥇 Department Topper (AIML) — 2025, 2026
 - 🚀 Smart India Hackathon — Shortlisted (2025)
 - 🏭 MSME Shortlisted (2025)
 - 🥉 3rd Place — BioAIHack 2k26, National-level 6-hour Hackathon, KPR College
