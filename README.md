@@ -142,7 +142,7 @@ An edge-AI safety monitoring system for real-time harassment detection from vide
 
 ## 💻 Coding Profiles
 
-- **LeetCode:** 130+ problems solved
+- **LeetCode:** 160+ problems solved
 - **Skillrack:** 750+ problems solved • 8 certificates • 220+ Bronze medals
 
 ---
